@@ -42,10 +42,10 @@
  
 ## Summary: 
 
-The data analysis shows that a bikesharing company start up needs to focus on male customers and subscribers.
-Also the ride sharing stations should be located in an area where people commute for less than 15 minutes and the population is dense enough.
+The data analysis shows that a bikesharing company start up needs to focus on male customers and aquiring subscribers.
+Also the ride sharing stations should be located in an area where many people commute for short distances.
 
-The lower population density in ... could pose some risks as people 
+The lower population density in ... could pose some risks as people tend to rent for less than 15 minutes. 
 
 I would create more detailed visualizion for areas with a similar population density as ... 
 
