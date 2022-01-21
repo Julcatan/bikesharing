@@ -15,10 +15,13 @@ The Dashboards that are created in Tableau public are interactive and can be fil
 
 Most customers use the bikes in the downtown area of New York City.
 
-
 ![image](https://user-images.githubusercontent.com/91682586/150452169-e5416b22-446e-4283-9c74-aa33f43f2243.png)
 
+Customers use the bikes usually for less than one hour, most bikes are rented for about 6 minutes.
 
+![image](https://user-images.githubusercontent.com/91682586/150452696-1f995e6a-dfb6-48c8-bfb2-27f953181005.png)
+
+![image](https://user-images.githubusercontent.com/91682586/150452859-26badca0-c2d5-4999-9b34-341fa1c4bd2d.png)
 
 
 
