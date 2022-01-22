@@ -4,6 +4,10 @@
 
  - This Data Analysis is based on Data collected from a New York City Bikesharing company.
 
+
+## Link to Tableau Storyboard:
+[link to dashboard](https://public.tableau.com/app/profile/cathleen.mai/viz/TableauChallengeModule14/Story1?publish=yes)
+
 ## Purpose:
 
 - The purpose of the Analysis is to support the decision for an investment into a startup Bikesharing company in Des Moines.  
