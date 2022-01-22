@@ -6,7 +6,7 @@
 
 
 ## Link to Tableau Storyboard:
-[link to dashboard](https://public.tableau.com/app/profile/cathleen.mai/viz/TableauChallengeModule14/Story1?publish=yes)
+[link to dashboard](https://public.tableau.com/shared/GW2TNW5GW?:display_count=n&:origin=viz_share_link)
 
 ## Purpose:
 
