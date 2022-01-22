@@ -16,14 +16,16 @@
  - Darker color indicate a higher number of rides.
  - The highest number of rides is shown in the downtown/ Manhattan area of New York. 
 
-![image](https://user-images.githubusercontent.com/91682586/150452169-e5416b22-446e-4283-9c74-aa33f43f2243.png)
+![image](https://user-images.githubusercontent.com/91682586/150452169-e5416b22-446e-4283-9c74-aa33f43f2243.png) 
+
 
  - Customers use the bikes usually for less than one hour, most bikes are actually rented for about 6 minutes.
 
 ![image](https://user-images.githubusercontent.com/91682586/150454816-c7e336d4-1c83-4204-aa63-8cd8d687ba0b.png)
+![image](https://user-images.githubusercontent.com/91682586/150648895-9f477e3a-73b3-46a1-a288-543574823e4e.png)
 
  - The "Trips by weekday per hour" Visualization suggests that the bikes are being used to commute to work as a higher rate of bike rentals are seen 8 am in the morning and  between 5 and 7 at night. 
- - The Trips
+ - The Trips by Gender by Wekday and hour shows the same pattern for the timeframe between the genders, but male customers have still the higher number of rides. 
 
 ![image](https://user-images.githubusercontent.com/91682586/150452696-1f995e6a-dfb6-48c8-bfb2-27f953181005.png)
 
