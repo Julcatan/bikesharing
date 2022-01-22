@@ -23,6 +23,7 @@
 ![image](https://user-images.githubusercontent.com/91682586/150454816-c7e336d4-1c83-4204-aa63-8cd8d687ba0b.png)
 
  - The "Trips by weekday per hour" Visualization suggests that the bikes are being used to commute to work as a higher rate of bike rentals are seen 8 am in the morning and  between 5 and 7 at night. 
+ - The Trips
 
 ![image](https://user-images.githubusercontent.com/91682586/150452696-1f995e6a-dfb6-48c8-bfb2-27f953181005.png)
 
@@ -44,12 +45,13 @@
 
 The data analysis shows that a bikesharing company start up needs to focus on male customers and aquiring subscribers.
 Also the ride sharing stations should be located in an area where many people commute for short distances.
+The lower population density in Des Moines could pose some risks as people tend to rent for less than 15 minutes. 
 
-The lower population density in ... could pose some risks as people tend to rent for less than 15 minutes. 
+I would recommend the following additional visualizations:
+ - Number of Rides by Age
+ - Top 10 popular Start and End Stations
 
-I would create more detailed visualizion for areas with a similar population density as ... 
 
-and
 
 
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
